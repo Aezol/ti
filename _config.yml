@@ -10,8 +10,8 @@ title:               Lanyon
 tagline:             'A Jekyll theme'
 description:         'A blog made by <a href="https://twitter.com/axlelr" target="_blank">@axlelr</a>.'
 url:                 http://lanyon.athelo.net
-baseurl:             ''
-paginate:            5
+baseurl:             '/lanyon'
+paginate:            20
 
 # About/contact
 author:
